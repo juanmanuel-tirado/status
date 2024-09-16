@@ -76,19 +76,19 @@
     "url": "https://creator.testnet.pantos.io",
     "icon": "https://icons.duckduckgo.com/ip3/creator.testnet.pantos.io.ico",
     "slug": "pantos-testnet-creator",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 847,
-    "timeDay": 897,
-    "timeWeek": 858,
-    "timeMonth": 850,
-    "timeYear": 847,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 849,
+    "timeDay": 990,
+    "timeWeek": 886,
+    "timeMonth": 857,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2024-09-16": 0
+      "2024-09-16": 27
     }
   }
 ]
